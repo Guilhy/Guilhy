@@ -1,4 +1,4 @@
-## Oi
+## Eae, eu sou o Guilherme
 
 - 👋 Hi, I’m @Guilhy
 - ✨ 14 years old
