@@ -1,10 +1,9 @@
 ## Eae, eu sou o Guilherme
 
-- 👋 Hi, I’m @Guilhy
-- ✨ 14 years old
-- 👀 I’m interested in programming and games
-- 🌱 I’m currently learning Python
-- 📫 How to reach me: guilhy.dev@gmail.com
+- ✨ 14 anos de idade
+- 👀 Começando na programação
+- 🌱 Estou aprendendo Python
+- 📫 E-mail: guilhy.dev@gmail.com
 
 <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
