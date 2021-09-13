@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Python
 - 📫 How to reach me: guilhy.dev@gmail.com
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.14.0/devicon.min.css">
 
 <!---
 Guilhy/Guilhy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
