@@ -4,8 +4,7 @@
 - Começando na programação
 - Aprendendo Python
 - E-mail: guilhy.dev@gmail.com
-
-<hr>
+##
 
  <div>
   <a href="https://github.com/Guilhy">
